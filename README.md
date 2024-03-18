@@ -1,6 +1,6 @@
 # 🌻 Certificados
 
-> Repositório para armazenar todos os `certificados e diplomas` que irei e já adquiri ao longo da minha carreira para que as empresas interessadas possam analisar;
+> Repositório para armazenar todos os `certificados e diplomas` que irei e já adquiri ao longo da minha carreira para que as empresas interessadas possam analisar
 
 ---
 <p align="center" /p>Serão Listados aqui apenas os cursos focados nas minhas áreas de interesse:<br>

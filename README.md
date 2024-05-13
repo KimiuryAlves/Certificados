@@ -1,25 +1,22 @@
-# 🌻 Certificados
 
-> Repositório para organizar todos os certificados e diplomas que irei e já adquiri. Estará sempre sendo movimentado.
+>> Repositório para organizar todos os certificados e diplomas que irei e já adquiri. Estará sempre sendo movimentado. 
 
----
 
-# 🎓 Cursando 
+## 🎓 Cursando 
 
 🧠 Uniritter - Análise e Desenvolvimento de Sistemas<br>
 🧠 Faculdade Metropolitana - Pós em Gestão da Qualidade e Produtividade<br>
 
-# 🎓 Formação acadêmica
+## 🎓 Formação acadêmica
 
-🧠 Estácio - Gestão da Qualidade
-🧠 Faculdade Metropolitana - Pós em Química Analítica
+🧠 Estácio - Gestão da Qualidade <br>
+🧠 Faculdade Metropolitana - Pós em Química Analítica <br>
 🧠 Técnico de Química
 
----
 
-# 🎓 Possuo certificados de:
 
-ADA e DIO  - Bootcamps
-Preditiva - Excel para dados
+## 🎓 Outros certificados disponíveis neste repositório sagrado
+
+ADA e DIO  - Bootcamps <br>
+Preditiva - Excel para dados <br>
 GINEAD - Banco de conhecimentos sobre ERP 
-e outros, todos disponíveis neste repositório sagrado.

@@ -17,6 +17,6 @@
 
 ## 🎓 Outros certificados disponíveis neste repositório sagrado
 
-ADA e DIO  - Bootcamps <br>
-Preditiva - Excel para dados <br>
-GINEAD - Banco de conhecimentos sobre ERP 
+🧠 ADA e DIO  - Bootcamps <br>
+🧠 Preditiva - Excel para dados <br>
+🧠 GINEAD - Banco de conhecimentos sobre ERP 

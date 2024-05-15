@@ -11,7 +11,7 @@
 
 🧠 Estácio - Gestão da Qualidade <br>
 🧠 Faculdade Metropolitana - Pós em Química Analítica <br>
-🧠 Técnico de Química
+🧠 Dom João Becker - Técnico de Química
 
 
 

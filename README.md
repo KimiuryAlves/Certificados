@@ -5,12 +5,12 @@
 ## 🎓 Cursando 
 
 🧠 Uniritter - Análise e Desenvolvimento de Sistemas<br>
-🧠 Faculdade Metropolitana - Pós em Gestão da Qualidade e Produtividade<br>
+🧠 Faculdade Metropolitana - Pós Gestão da Qualidade <br>
 
 ## 🎓 Formação acadêmica
 
 🧠 Estácio - Gestão da Qualidade <br>
-🧠 Faculdade Metropolitana - Pós em Química Analítica <br>
+🧠 Faculdade Metropolitana - Pós Química Analítica <br>
 🧠 Dom João Becker - Técnico de Química
 
 
